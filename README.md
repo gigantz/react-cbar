@@ -4,12 +4,16 @@
 # react-cbar / AZN Məzənnələri
 Azərbaycan Respublikasının Mərkəzi Bankı https://cbar.az
 
+val = (cbar.az-da olan bütün məzənnələr)
 ```
 <Widget val="USD,RUB,EUR,TRY,GBP" />
 ```
 
 **Əlavələr**
+
 ```horizontal``` - Üfüqi
+
+
 ```names```- Kod yerinə adlar
 
 Misal üçün
