@@ -6,7 +6,7 @@ Azərbaycan Respublikasının Mərkəzi Bankı https://cbar.az
 
 val = (cbar.az-da olan bütün məzənnələr)
 ```
-<Widget val="USD,RUB,EUR,TRY,GBP" />
+<Widget val="USD,RUB,EUR,TRY,GBP" names />
 ```
 
 **Əlavələr**
@@ -18,7 +18,7 @@ val = (cbar.az-da olan bütün məzənnələr)
 
 Misal üçün
 ```
-<Widget val="USD,RUB,EUR,TRY" names horizontal />
+<Widget val="USD,RUB,EUR,TRY" horizontal />
 ```
 ![horizontal with codes](screen1.png)
 
