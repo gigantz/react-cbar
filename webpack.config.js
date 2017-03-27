@@ -25,12 +25,12 @@ module.exports = {
         hot: true,
     },
     watch: true,
-    // plugins: [
-    //     new webpack.DefinePlugin({
-    //         'process.env':{
-    //             'NODE_ENV': JSON.stringify('production')
-    //         }
-    //     }),
-    //     new UglifyJSPlugin()
-    // ]
+    plugins: [
+        new webpack.DefinePlugin({
+            'process.env':{
+                'NODE_ENV': JSON.stringify('production')
+            }
+        }),
+        new UglifyJSPlugin()
+    ]
 };
