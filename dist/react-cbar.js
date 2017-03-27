@@ -271,6 +271,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
                                                                                                                                                             *
                                                                                                                                                             * View options: horizontal names
                                                                                                                                                             * Example: <Main val="USD,RUB,EUR,TRY" horizontal names />"
+                                                                                                                                                            *
                                                                                                                                                             */
 
 /***/ })
