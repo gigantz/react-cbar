@@ -4,6 +4,10 @@
 # react-cbar / AZN Məzənnələri
 Azərbaycan Respublikasının Mərkəzi Bankı https://cbar.az
 
+```
+npm install react-cbar
+```
+
 val = (cbar.az-da olan bütün məzənnələr)
 ```
 <Widget val="USD,RUB,EUR,TRY,GBP" names />
